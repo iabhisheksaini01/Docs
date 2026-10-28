@@ -1,5 +1,8 @@
+## 1. Scope Clarification
 
-The following entities are **not automatically migrated** by the current migration notebook or require manual configuration.
+This document lists the entities not automatically covered by the current GitLab-to-GitHub migration notebook.
+
+## 2. Entities Not Automatically Covered
 
 1. Group members and permissions
 2. Branch protection and approval rules
@@ -14,4 +17,3 @@ The following entities are **not automatically migrated** by the current migrati
 11. Deploy tokens, SSH keys, and deployment credentials
 12. Integrations and external API connections
 13. Audit and compliance data
-
